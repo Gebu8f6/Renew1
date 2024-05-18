@@ -1,4 +1,4 @@
-name: MS OFFICE 365 E5自动续期
+name: MS OFFICE 365 E5自動續期
 on: 
   workflow_dispatch:
   schedule:
