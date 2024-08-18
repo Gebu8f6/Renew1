@@ -2,7 +2,7 @@ name: MS OFFICE 365 E5自動續期
 on: 
   workflow_dispatch:
   schedule:
-  - cron: '56 23 * * *'
+  - cron: '9 0 * * *'
 jobs: 
   deploy:
     runs-on: ubuntu-latest
